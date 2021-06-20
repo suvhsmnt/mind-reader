@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mind-reader/static/css/main.bab0b925.chunk.css",
+    "main.js": "/mind-reader/static/js/main.26a4e7b8.chunk.js",
+    "main.js.map": "/mind-reader/static/js/main.26a4e7b8.chunk.js.map",
+    "runtime-main.js": "/mind-reader/static/js/runtime-main.639e289f.js",
+    "runtime-main.js.map": "/mind-reader/static/js/runtime-main.639e289f.js.map",
+    "static/js/2.ec394299.chunk.js": "/mind-reader/static/js/2.ec394299.chunk.js",
+    "static/js/2.ec394299.chunk.js.map": "/mind-reader/static/js/2.ec394299.chunk.js.map",
+    "static/js/3.b8f3b523.chunk.js": "/mind-reader/static/js/3.b8f3b523.chunk.js",
+    "static/js/3.b8f3b523.chunk.js.map": "/mind-reader/static/js/3.b8f3b523.chunk.js.map",
+    "index.html": "/mind-reader/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/mind-reader/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.ec394299.chunk.js.LICENSE.txt": "/mind-reader/static/js/2.ec394299.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.639e289f.js",
+    "static/js/2.ec394299.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.26a4e7b8.chunk.js"
+  ]
+}
