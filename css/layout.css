@@ -32,7 +32,7 @@ body {
 
 header {
   position: relative;
-  height: 800px;
+  height: 720px;
   min-height: 500px;
   width: 100%;
 
@@ -52,8 +52,7 @@ header:before {
     display: inline-block;
     vertical-align: middle;
     margin: 0 auto;
-    width: 84%;
-    padding-bottom: 30px;
+    width: 91%;
     text-align: center;
   }
 }
@@ -63,8 +62,8 @@ header:before {
     vertical-align: auto;
     margin: 0 auto;
     width: 90%;
-    height: 100%;
-    padding-bottom: 30px;
+    height: 98%;
+    padding-bottom: 10px;
     text-align: center;
     overflow-y: auto;
   }
@@ -120,7 +119,7 @@ header .banner-text hr {
 
 /* header social links */
 header .social {
-  margin: 24px 0;
+  margin: 0px 0;
   padding: 0;
   font-size: 30px;
 }
@@ -1150,13 +1149,6 @@ footer .social-links li:first-child {
   background-color: #0f9095;
 }
 
-.social .btn:first-child {
-  margin-right: 30px;
-}
-.social .btn {
-  padding-left: 30px;
-  padding-right: 30px;
-}
 .social .btn i {
   margin-right: 15px;
 }
