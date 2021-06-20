@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mind-reader/static/css/main.bab0b925.chunk.css",
-    "main.js": "/mind-reader/static/js/main.10eded48.chunk.js",
-    "main.js.map": "/mind-reader/static/js/main.10eded48.chunk.js.map",
+    "main.js": "/mind-reader/static/js/main.c20a2eea.chunk.js",
+    "main.js.map": "/mind-reader/static/js/main.c20a2eea.chunk.js.map",
     "runtime-main.js": "/mind-reader/static/js/runtime-main.639e289f.js",
     "runtime-main.js.map": "/mind-reader/static/js/runtime-main.639e289f.js.map",
     "static/js/2.ec394299.chunk.js": "/mind-reader/static/js/2.ec394299.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.639e289f.js",
     "static/js/2.ec394299.chunk.js",
     "static/css/main.bab0b925.chunk.css",
-    "static/js/main.10eded48.chunk.js"
+    "static/js/main.c20a2eea.chunk.js"
   ]
 }
